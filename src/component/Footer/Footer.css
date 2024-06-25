@@ -1,0 +1,17 @@
+.footer {
+    background-color: rgba(235, 81, 81, 0.935);
+    text-align: center;
+}
+
+.footer h4 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    font-family: "Tajawal";
+}
+
+.footer a {
+    color: #fff;
+}

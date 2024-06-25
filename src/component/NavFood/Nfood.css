@@ -1,0 +1,40 @@
+nav {
+    background-color: #fff;
+    top: 0;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    border-radius: 0px;
+    padding: 0.7rem 2rem;
+    overflow: hidden;
+}
+
+nav a {
+    color: rgb(235, 81, 81) !important;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+nav #lastnav {
+    background-color: rgb(235, 81, 81);
+    border: 1px solid rgb(235, 81, 81);
+    box-sizing: border-box;
+    border-radius: 2px;
+    color: #fff !important;
+
+}
+
+nav #lastnav:hover {
+    background-color: transparent;
+    color: rgb(235, 81, 81) !important;
+    transition: .2s ease-in-out;
+}
+
+nav img {
+    max-width: 25%;
+    height: 5%;
+    background-color: #fff;
+    border-radius: 50%;
+
+}

@@ -1,3 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800;900&display=swap');
+
+body {
+  font-family: "Tajawal", sans-serif;
+}
+
+/* .container {
+  max-width: 1250px !important;
+  margin: 0 auto;
+  position: relative;
+
+}
+
+@media (max-width: 1400px) {
+  .continer {
+    padding: 0 1.5rem;s
+  }
+} */
+
 .App {
   text-align: center;
 }
@@ -32,6 +51,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }

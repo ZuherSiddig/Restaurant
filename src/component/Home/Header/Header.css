@@ -1,0 +1,69 @@
+header {
+    background: url(D:\ReactJs\Pro\restrant\public\assets\background.jpg) center no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-width: 100%;
+    text-align: left;
+    height: auto;
+    overflow: hidden;
+    margin-top: 0px;
+    padding: 25px 0px;
+
+
+
+}
+
+header h2 {
+    color: rgb(71, 23, 23) !important;
+    font-size: 55px;
+    line-height: 50px;
+    font-weight: bold;
+    width: 80%;
+
+}
+
+header.row {
+    margin: 60px 0px;
+}
+
+header p {
+    color: #333;
+    margin: 15px 0px;
+}
+
+header button {
+    width: 150px;
+    height: 50px;
+    background-color: rgb(235, 81, 81);
+    border: 1px solid rgb(235, 81, 81);
+    border-radius: 2px;
+    box-sizing: border-box;
+    text-align: center;
+    color: #fff;
+    margin: 20px 10px 20px 0px;
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
+
+header button:hover {
+    transition: .2s ease-in-out;
+}
+
+header button:last-of-type {
+    background-color: #fff;
+    color: #000;
+
+}
+
+header button:first-of-type:hover {
+    background-color: #fff;
+    color: rgb(235, 81, 81);
+
+}
+
+header button:last-of-type:hover {
+    background-color: rgb(235, 81, 81);
+    color: #fff;
+
+}
